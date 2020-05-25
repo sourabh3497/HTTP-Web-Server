@@ -17,5 +17,8 @@ Python Libraries:-
 
 	base64 - pip3 install pybase64
 
-To Run Project -
-		Command: python3 Server.py			
+To Run Project :-
+	Command: python3 Server.py
+
+Usage :-
+	To host a website put your files in index folder.
