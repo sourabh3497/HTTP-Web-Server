@@ -1,0 +1,21 @@
+
+TITLE : HTTP WEB SERVER, a Command Line Interface
+
+Use port no: 2001
+
+Python Libraries:-
+
+	sudo apt install python3-pip.
+
+	urllib - pip3 install urllib.
+
+	configparser - pip3 install python-configparser.
+
+	logging - pip3 install logging
+
+	magic - pip3 install python-magic
+
+	base64 - pip3 install pybase64
+
+To Run Project -
+		Command: python3 Server.py			
